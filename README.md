@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anıl</h1>
-<h3 align="center">I am interested in Data Science and Machine Learning. My thesis is on big data science and machine learning in ship industry.</h3>
+<h3 align="center">I am interested in Data Science and Machine Learning. My thesis is on big data and machine learning in ship industry.</h3>
 
 <br>
 
